@@ -1,2 +1,12 @@
 
 
+.banner-bg{
+    background-color: #feeae9;
+}
+.cat-1{
+    padding: 10px;
+    border-radius: 8px;
+}
+.cat-1 img{
+    height: 100px;
+}
